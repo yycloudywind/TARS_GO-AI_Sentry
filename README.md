@@ -60,12 +60,12 @@
 要求Cmake环境
 
 #### C.文件目录
-├── CMakeLists.txt 
-├── FlyCamera.h 
-├── FlyCamera.cpp 
-├── car_classification.hpp 
-├── gen_wts.py 
-└── yolov5_sentry.cpp 
+├── CMakeLists.txt
+├── FlyCamera.h                        
+├── FlyCamera.cpp                      
+├── car_classification.hpp                    
+├── gen_wts.py
+└── yolov5_sentry.cpp
 
 #### D.原理介绍
 >> 原理介绍如功能性模块说明所示
